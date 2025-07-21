@@ -1,0 +1,62 @@
+.post {
+    position: relative;
+    border: 1px solid lightskyblue;
+    border-radius: 8px;
+    overflow: hidden;
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+}
+
+.post:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+    cursor: pointer;
+}
+
+.image-post {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.post-favourite-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 5px;
+}
+
+.post-favourite-icon {
+    width: 24px;
+    height: 24px;
+    color: lightskyblue;
+    transition: transform 0.3s ease, fill 0.3s ease;
+}
+
+.post-favourite-btn:hover .post-favourite-icon {
+    transform: scale(1.1);
+}
+
+.post-content {
+    padding: 1rem;
+}
+
+.post-content h2 {
+    margin: 0 0 0.5rem;
+    color: #2c3e50;
+    font-size: 1.2rem;
+}
+
+.post-content p {
+    margin: 0 0 0.5rem;
+    color: #34495e;
+}
+
+.post-about-person {
+    font-weight: bold;
+    color: #f39c12;
+}

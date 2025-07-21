@@ -1,0 +1,85 @@
+{
+  "posts": [
+    {
+      "title": "Tyler Swift",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+      "image": "1734163651060_Screenshot (1).png",
+      "genre": "POP",
+      "music_star": "Taylor",
+      "created_at": "2024-12-14T08:07:31.400Z",
+      "id": 1
+    },
+    {
+      "title": "Bon Jovi",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "image": "1734163756920_img1.png",
+      "genre": "ROCK",
+      "music_star": "BON JOVI",
+      "created_at": "2024-12-14T08:09:16.935Z",
+      "id": 2
+    },
+    {
+      "title": "Moneybag",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "image": "1734163791603_img.png",
+      "genre": "RAP",
+      "music_star": "Moneybag",
+      "created_at": "2024-12-14T08:09:51.752Z",
+      "id": 3
+    },
+    {
+      "title": "Ryan is crazy",
+      "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.",
+      "image": "1734164085514_different_name_logo.png",
+      "genre": "ROCK",
+      "music_star": "Ryan",
+      "created_at": "2024-12-14T08:14:45.515Z",
+      "id": 4
+    },
+    {
+      "title": "Mike",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+      "image": "1734164266925_img5.png",
+      "genre": "ROCK",
+      "music_star": "Mike",
+      "created_at": "2024-12-14T08:17:46.926Z",
+      "id": 5
+    },
+    {
+      "title": "Justin",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+      "image": "1734165723909_img5.png",
+      "genre": "POP",
+      "music_star": "Justin",
+      "created_at": "2024-12-14T08:42:03.910Z",
+      "id": 6
+    },
+    {
+      "title": "MUHARSKI",
+      "description": "Мукарски и Валентина кривата",
+      "image": "1738093589063_second.jpg",
+      "genre": "RОЦК",
+      "music_star": "Илия Вукарски",
+      "created_at": "2025-01-28T19:46:29.356Z",
+      "id": 7
+    },
+    {
+      "title": "ddadadada",
+      "description": "dadadadadadadad",
+      "image": "1746476977275_Screenshot (77).png",
+      "genre": "dadadadad",
+      "music_star": "dadadadadadadada",
+      "created_at": "2025-05-05T20:29:37.328Z",
+      "id": 8
+    },
+    {
+      "title": "Title",
+      "description": "EchoSphere is an innovative platform that connects passionate individuals with like-minded communities through interactive audio spaces. Whether you're into gaming, music, or simply want to engage in deep conversations, EchoSphere provides a dynamic environment where users can join live voice chats, share their favorite sounds, and collaborate on creative projects. With advanced AI-powered moderation and customizable soundscapes, EchoSphere ensures a seamless and immersive experience for everyone. Join us, and let your voice be heard in a space where creativity knows no bounds.\r\n\r\nLet me know if you need adjustments or something else!",
+      "image": "1746477089246_Screenshot (37).png",
+      "genre": "RAP",
+      "music_star": "Taylor Swift",
+      "created_at": "2025-05-05T20:31:29.593Z",
+      "id": 9
+    }
+  ]
+}
